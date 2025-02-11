@@ -19,4 +19,5 @@ None
 None
 
 ## Created by
-Nathan Mishler
+Trenton Fender
+Foxel4Scool
